@@ -1,0 +1,52 @@
+.one{
+    color: red;
+}
+#one{
+    text-align: left;
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+a{
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+.b{
+
+    text-align: right;
+}
+.img_deg{
+    float:right;
+}
+.two{
+    text-align:right
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    color: aqua;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+li,h1{
+    display: inline;
+    
+   }
+   ul{
+    margin-left: 80%;
+    text-decoration: none;
+    
+   }
+   .img{
+    padding: 50px;
+    margin-right: 50%;
+    
+   }
